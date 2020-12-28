@@ -10,21 +10,21 @@ export class UsersService {
     this.users = [
       {
         userId: 1,
-        username: 'test',
+        username: 'Abu',
         password: '1234',
-        email:'test@test.com'
+        email: 'abu@abc.com',
       },
       {
         userId: 2,
-        username: 'chris',
-        password: 'secret',
-        email:'test@test2.com'
+        username: 'Ali',
+        password: '4321',
+        email: 'ali@xyz.com',
       },
       {
         userId: 3,
-        username: 'maria',
-        password: 'guess',
-        email:'test@test3.com'
+        username: 'Siti',
+        password: '1q2w',
+        email: 'siti@qaz.com',
       },
     ];
   }
